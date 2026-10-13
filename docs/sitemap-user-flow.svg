@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760"><rect width="1200" height="760" fill="#f2f6f5"/><text x="600" y="46" text-anchor="middle" font-family="Arial" font-size="28" font-weight="bold" fill="#153943">MSUAS Student Services Portal — Sitemap & User Flow</text>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#176b68"/></marker></defs>
+<g stroke="#176b68" stroke-width="3" fill="none" marker-end="url(#a)"><path d="M600 130 V170"/><path d="M600 230 V270 H190 V315"/><path d="M600 270 V315"/><path d="M600 270 H1010 V315"/><path d="M190 390 V440"/><path d="M600 390 V440"/><path d="M1010 390 V440"/><path d="M600 500 V550"/></g>
+<g font-family="Arial" text-anchor="middle"><rect x="430" y="75" width="340" height="55" rx="12" fill="#153943"/><text x="600" y="109" font-size="20" fill="#fff" font-weight="bold">Home / Landing Page</text>
+<rect x="410" y="170" width="380" height="60" rx="12" fill="#e4ad35"/><text x="600" y="207" font-size="20" fill="#102f37" font-weight="bold">Choose a task</text>
+<rect x="65" y="315" width="250" height="75" rx="12" fill="#e8f4f1" stroke="#176b68" stroke-width="2"/><text x="190" y="345" font-size="18" fill="#153943" font-weight="bold">Find a service</text><text x="190" y="369" font-size="14" fill="#24363a">Search / category filter</text>
+<rect x="475" y="315" width="250" height="75" rx="12" fill="#e8f4f1" stroke="#176b68" stroke-width="2"/><text x="600" y="345" font-size="18" fill="#153943" font-weight="bold">Campus Hub</text><text x="600" y="369" font-size="14" fill="#24363a">Select p5.js node</text>
+<rect x="885" y="315" width="250" height="75" rx="12" fill="#e8f4f1" stroke="#176b68" stroke-width="2"/><text x="1010" y="345" font-size="18" fill="#153943" font-weight="bold">Contact</text><text x="1010" y="369" font-size="14" fill="#24363a">Prepare email draft</text>
+<rect x="65" y="440" width="250" height="60" rx="12" fill="#fff" stroke="#c76b55" stroke-width="2"/><text x="190" y="477" font-size="17" fill="#153943">Expand service details</text>
+<rect x="475" y="440" width="250" height="60" rx="12" fill="#fff" stroke="#c76b55" stroke-width="2"/><text x="600" y="477" font-size="17" fill="#153943">Jump to matching card</text>
+<rect x="885" y="440" width="250" height="60" rx="12" fill="#fff" stroke="#c76b55" stroke-width="2"/><text x="1010" y="477" font-size="17" fill="#153943">Validate form → mail app</text>
+<rect x="390" y="550" width="420" height="60" rx="12" fill="#153943"/><text x="600" y="587" font-size="19" fill="#fff" font-weight="bold">Optional: Student Portal Demo</text>
+<text x="600" y="675" font-size="15" fill="#52686b">All routes remain within one responsive, single-page application.</text></g></svg>
